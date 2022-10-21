@@ -69,7 +69,7 @@ public class Main {
         System.out.println("Задача №9");
         var totalEmployees = employee+94;
         var employeeDailyOutput= openingHours/totalEmployees;
-        System.out.println("Если в компании работает  " + totalEmployees + " человек, то всего "+ employeeDailyOutput+" часов работы может быть поделено между сотрудниками");
+        System.out.println("Если в компании работает  " + totalEmployees + " человек, то всего "+ employeeDailyOutput+" часов работы может быть поделено между сотрудниками.");
 
 
     }
